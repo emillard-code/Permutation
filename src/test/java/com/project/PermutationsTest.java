@@ -10,7 +10,7 @@ import java.io.PrintStream;
 
 public class PermutationsTest {
 
-    // Use below link for a guide to print testing.
+    // Use the below link for a guide to print testing.
     // https://www.baeldung.com/java-testing-system-out-println
 
     private final PrintStream standardOut = System.out;
